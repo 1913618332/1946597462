@@ -1,10 +1,4 @@
 bgm:1.mp3;
-changeBG_next:0.jpg;
-changeP_left_next:zhou.png;
-周一凡:阿贝，我瞧哇米娜？;
-changeBG_next:01.png;
-changeP_left_next:zhou.png;
-周一凡:阿贝，我瞧哇米娜？;
 changeBG_next:2.jpg;
 changeP_left_next:yan.png;
 闫泽林:汪汪！;
