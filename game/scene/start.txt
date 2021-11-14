@@ -1,4 +1,6 @@
 bgm:1.mp3;
+changeBG_next:0.jpg;
+changeBG_next:01.png;
 changeBG_next:2.jpg;
 changeP_left_next:yan.png;
 闫泽林:汪汪！;
