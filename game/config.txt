@@ -1,0 +1,4 @@
+关于我不知道取什么名的那件小事:WebGAL;
+Game_key:0f43kdt;
+Title_img:2.jpg;
+Title_bgm:1.mp3;
